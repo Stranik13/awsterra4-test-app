@@ -1,0 +1,10 @@
+{
+  "resourceName": "testappdb",
+  "tableName": "notes1",
+  "partitionKey": {
+    "fieldName": "id_note",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
